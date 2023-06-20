@@ -1,2 +1,2 @@
-__pycache__/*
-tumor/*
+./__pycache__
+./tumor
